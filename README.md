@@ -1,3 +1,3 @@
 # bonjour je susis Stéphane GERARD
 
-<img src="https://raw.githubusercontent.com/Gerard41330/master/Développeur full-stack.png">
+<img src="https://github.com/Gerard41330/Stephane-GERARD//Développeur full-stack.png">
