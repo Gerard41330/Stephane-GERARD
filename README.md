@@ -1,4 +1,4 @@
-# :octocat: <span style="color:bleu">**bonjour je suis Stéphane GERARD**</span> :octocat:
+
 # <span style="color:blue; font-family:verdana;">**bonjour je suis Stéphane GERARD**</span>
 
 
