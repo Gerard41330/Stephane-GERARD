@@ -1,12 +1,9 @@
 
 # <span style="color:blue; font-family:verdana;">bonjour je suis Stéphane GERARD</span>
 
-
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/Developpeur-full-stack.png">
 
-##  mes compétences en langage
-
-# Mon Projet
+#  mes compétences en langage
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&style=flat-square)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&style=flat-square)](https://www.w3.org/Style/CSS/Overview.en.html)
