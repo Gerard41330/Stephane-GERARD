@@ -6,3 +6,5 @@
 
 ##  mes compétences en langage
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+!JavaScript
+
