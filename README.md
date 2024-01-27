@@ -4,7 +4,7 @@
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/Developpeur-full-stack.png">
 
 # Connectez-vous avec moi :
-<a href="lien_vers_votre_page_facebook" target="_blank"><img src="lien_vers_icone_facebook.png" alt="Facebook"></a>
+<a href="[lien_vers_votre_page_facebook](https://www.facebook.com/stephanegerard27130/)" target="_blank"><img src="lien_vers_icone_facebook.png" alt="Facebook"></a>
 <a href="lien_vers_votre_compte_twitter" target="_blank"><img src="lien_vers_icone_twitter.png" alt="Twitter"></a>
 <a href="lien_vers_votre_compte_instagram" target="_blank"><img src="lien_vers_icone_instagram.png" alt="Instagram"></a>
 
