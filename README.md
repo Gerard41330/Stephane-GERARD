@@ -6,6 +6,7 @@
 
 ##  mes compétences en langage
 
-![Static Badge](https://img.shields.io/badge/javascript)
+![Static Badge](https://img.shields.io/badge/badge-css)
+
 
 
