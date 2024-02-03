@@ -3,6 +3,11 @@
 
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/Developpeur-full-stack.png">
 
+Je suis Développeur Full stack. J’aime la résolution de problèmes, les jeux vidéo. 
+
+🔭 Je suis a la recherche de travaille actuellement
+👯 Je cherche à collaborer sur de nouvelles idées d’affaires.
+
 # Connectez-vous avec moi :
 <a href="https://www.facebook.com/stephanegerard27130/" target="_blank"><img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/facebook.png" width="35" height="35" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/stephane-gerard/" target="_blank"><img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/linkedin.png" width="35" height="35" alt="Linkedin"></a>
